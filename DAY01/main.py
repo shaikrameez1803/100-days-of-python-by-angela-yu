@@ -1,4 +1,4 @@
-#BAND NAME GENERATOR PROJECT
+##BAND NAME GENERATOR PROJECT##
 print("HELLO!")
 city=input("What's the name of the city you grew up in ?\n")
 print(city)

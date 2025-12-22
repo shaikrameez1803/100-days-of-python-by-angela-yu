@@ -11,4 +11,4 @@ Practiced Python data types and built a simple program to calculate values using
 
 ## Tools Used
 - Python
-- PyCharm Community Edition
+- PyCharm Community Editionn
