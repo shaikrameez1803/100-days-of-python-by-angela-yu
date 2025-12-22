@@ -1,3 +1,4 @@
+##TREASURE ISLAND PROJECT##
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 choice1=input('Which direction u wish to head towards? "Left" or "Right"').lower()
