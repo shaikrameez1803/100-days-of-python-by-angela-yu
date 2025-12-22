@@ -12,3 +12,4 @@ A simple Band Name Generator that takes user input (city and pet name) and sugge
 ## Tools Used
 - Python
 - PyCharm Community Edition
+//updation for clarity
