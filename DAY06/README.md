@@ -27,7 +27,7 @@ This project is implemented using the **Reeborg’s World / Karel-style environm
 
 ---
 
-## ✅ Learning Outcome
+### ✅ Learning Outcome
 
 This project helped in understanding:
 - How to break problems into reusable functions
