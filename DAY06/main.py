@@ -1,4 +1,4 @@
-### Escaping the Maze 🧩##
+#### Escaping the Maze 🧩###
 def turn_right():
     turn_left()
     turn_left()
