@@ -1,4 +1,4 @@
-# Day 13 – Debugging in Python
+## Day 13 – Debugging in Python
 
 ## Topics Covered
 - Describing the problem clearly
