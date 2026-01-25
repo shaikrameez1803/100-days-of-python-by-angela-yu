@@ -23,3 +23,4 @@ It mimics a real-world machine workflow in a command-line interface.
 - Managing shared data using dictionaries
 - Writing structured, readable code
 - Building real-world logic-based simulations
+ 	
