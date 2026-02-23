@@ -35,5 +35,5 @@ for i in range(n):
         tim.forward(50)
         tim.right(90)
 
-# Keep window open until click
+## Keep window open until click
 screen.exitonclick()
